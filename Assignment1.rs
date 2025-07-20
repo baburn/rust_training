@@ -1,3 +1,4 @@
+// ATM Machine with Limited Cash (RAII + Memory Control)
 struct Cash {
     total: Box<u32>, // stored on the heap
 }
