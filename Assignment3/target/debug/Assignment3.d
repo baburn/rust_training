@@ -1,0 +1,1 @@
+C:\Users\nazee\Downloads\rust_training\Assignment3\target\debug\Assignment3.exe: C:\Users\nazee\Downloads\rust_training\Assignment3\src\logger.rs C:\Users\nazee\Downloads\rust_training\Assignment3\src\main.rs
